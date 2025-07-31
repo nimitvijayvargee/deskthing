@@ -4,6 +4,7 @@ author: "nimit vijayvargee"
 description: "spotify car thing for non-car owners"
 created_at: "2025-30-07"
 ---
+# Total Time Spent: 5 Hours
 
 # Schematic Design
 Time Spent: 30 Minutes \
