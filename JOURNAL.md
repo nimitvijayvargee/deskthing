@@ -25,3 +25,5 @@ The first half of my time was spent adding all the step files to the PCB (especi
 # Code
 Time Spent: 2hr \
 The code is written in circuitpython for a Pico W. It will initialize the display and connect to the Spotify Web SDK (Predefined credentials). It will then fetch the current playback status, and the album art to display on the screen. It takes all input from the encoder, parses and then passes it onto the API to perform actions as the user. The code was difficult to write as I had to combine both WiFi and Display features onto one device.
+\
+I also ended up accidentally putting my WiFi details and API key (removed for now) into the git repo, so I had to do a clean wipe of that lol.
