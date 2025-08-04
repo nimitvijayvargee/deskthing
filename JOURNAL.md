@@ -14,12 +14,19 @@ Time Spent: 30 Minutes \
 # PCB Design
 Time Spent: 30 Minutes \
 The PCB is a basic 2 layer board that connects the screen and encoder to the pico, not much can be said. The size could be shrunk with a smaller board but that would increase the costs. \
+I also spent some time setting up the 3D models so I could use the step file easily in the case. The ST7735 model is one I found online that matches my exact design. I also added headers to my Pico so it could be raised off the PCB (like how I intend to make it in the actual design).
+<img width="880" height="699" alt="image" src="https://github.com/user-attachments/assets/8b51bf98-3ec1-4618-ae28-85f26e8a1e5a" /> \
+I then extruded the baseplate to accomodate the heatset inserts. I extruded the walls until they were on level with the LCD. Because of the way the PCB is set, the rotary encoder protruded a bit above the screen. I will use this to make a knob later on.
+I also created an offset sketch on the extruded walls; where I put a plate for the front. It will slide around the screen and have a singular cutout for the knob. (and also mounting holes).
+
 <img width="1237" height="432" alt="image" src="https://github.com/user-attachments/assets/b521f89b-2321-40d0-83d6-647f3e782ed5" />
 <img width="889" height="401" alt="image" src="https://github.com/user-attachments/assets/6c8104bd-23ba-44a3-a684-a7efd1fe3126" />
 
 # CAD Design
 Time Spent: 1hr \
 The first half of my time was spent adding all the step files to the PCB (especially the LCD). I then had to manually adjust the placements and offsets, which took some effort. I then took PCB Step into fusion and modelled a case around it. I also modelled a knob for it. After all the practice I got from highway, this was the fastest and coolest thing I have made using fusion! \
+I started the CAD with importing a STEP file of the PCB into fusion, which I had previously added all the 3D models to. This way, most of the hard part was easily completed. I then made a sketch around the PCB, adding all the mounting holes too.
+
 <img width="717" height="632" alt="image" src="https://github.com/user-attachments/assets/35c01b8f-fe03-4e03-8fb9-6ee6c57b6411" />
 <img width="1061" height="639" alt="image" src="https://github.com/user-attachments/assets/9a6a0def-e9ea-4827-bbd5-8c83d30a4ed3" />
 
