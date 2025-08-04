@@ -1,4 +1,4 @@
-<img width="650" height="672" alt="image" src="https://github.com/user-attachments/assets/15251500-bca2-4eb5-9d34-532d4c7ed628" />---
+---
 title: "deskthing"
 author: "nimit vijayvargee"
 description: "spotify car thing for non-car owners"
