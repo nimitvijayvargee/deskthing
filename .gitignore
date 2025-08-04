@@ -1,0 +1,5 @@
+code/pc_test_code.py
+.venv/
+.vscode/settings.json
+PCB/deskthing.kicad_prl
+PCB/fp-info-cache
