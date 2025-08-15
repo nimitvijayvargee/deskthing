@@ -12,9 +12,10 @@ This project uses a Raspberry Pi Pico W and some cheap components, which puts th
 # BOM
 |Item       |Link                                                                    |Cost|
 |-----------|------------------------------------------------------------------------|----|
-|PCB        |https://pcbpower.com/                                                   |37  |
+|PCB        |https://lioncircuits.com/                                               |13  |
 |Pico W     |https://robocraze.com/products/raspberry-pi-pico-w/                     |10  |
 |LCD ST7735R|https://www.ktron.in/product/1-8-inch-tft-lcd-display-128x160-non-touch/|5   |
 |Case       |Print Legion                                                            |    |
+|EC11-20mm  |https://amzn.in/d/0mwhJB2                                               |4   |
 |M3 Screws  |[already have]                                                          |    |
 |Total      |                                                                        |52  |
