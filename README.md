@@ -18,4 +18,4 @@ This project uses a Raspberry Pi Pico W and some cheap components, which puts th
 |Case       |Print Legion                                                            |    |
 |EC11-20mm  |https://amzn.in/d/0mwhJB2                                               |4   |
 |M3 Screws  |[already have]                                                          |    |
-|Total      |                                                                        |52  |
+|Total      |                                                                        |32  |
